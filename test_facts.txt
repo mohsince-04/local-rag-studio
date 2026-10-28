@@ -1,0 +1,4 @@
+Project Nebula Specification
+Project Nebula is a secret interstellar rover mission launched on July 14, 2045, by Acme Aerospace.
+The chief engineer of the project is Dr. Elena Vance.
+The primary power source of the rover is a quantum plasma core, which generates 500 kilowatts of continuous energy.
